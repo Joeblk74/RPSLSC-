@@ -1,8 +1,18 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-public class Class1
+namespace RPSLP
 {
-	public Class1()
-	{
-	}
+    class Player
+    {
+        // member variables
+        public string name;
+        public string[] gestures;
+        public string chosenGesture;
+        public int score;
+        // constructor
+
+        // member methods
+    }
 }
